@@ -25,6 +25,4 @@ git clone https://github.com/vinoxindonesia33-ops/VINOX-TOOL
 cd VINOX-TOOL
 chmod +x install.sh
 bash install.sh
-
-RUN 🤖
--» vinox
+vinox

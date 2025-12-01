@@ -1,4 +1,4 @@
-#VINOX#
+#!/usr/bin/python
 import os, sys
 
 try:
@@ -290,4 +290,5 @@ def run():
 
 for y in range(9024):
     th = threading.Thread(target = run)
+
     th.start()

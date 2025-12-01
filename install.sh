@@ -18,3 +18,5 @@ echo "===================================="
 echo "   ✔ Installation Complete"
 echo "   Run tool using: vinox"
 echo "===================================="
+
+chmod +x install.sh
